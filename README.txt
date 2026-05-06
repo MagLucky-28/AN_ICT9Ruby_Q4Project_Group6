@@ -1,12 +1,10 @@
 Student Portal System - ICT 9 Project
 
-Open index.html first.
-
 Sample login:
 Username: student
 Password: ict9
 
-Features:
+Whats in it:
 - Login checks username and password.
 - Sidebar links open real pages.
 - Search filters visible cards.
